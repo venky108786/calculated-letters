@@ -1,0 +1,36 @@
+/* Write your code here. */
+.bg {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.left-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-size: 30px;
+}
+.input {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #ffffff;
+  background-color: transparent;
+  margin: 10px;
+}
+.button {
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #ffffff;
+  color: #219a6f;
+  border: 0px;
+}
+.label {
+  color: #ffffff;
+}
